@@ -1,6 +1,6 @@
 # WebsiteSederhana
 ![Create Dynamics Website](https://github.com/inzaghidev/WebsiteSederhana/blob/main/images/create-dynamic-pages-using-html-css-php-mysql.png)
-Merupakan Website Sederhana yang terdiri dari HTML, CSS, PHP, dan MySQL.
+Merupakan Website Dinamis Sederhana yang terdiri dari HTML, CSS, PHP, dan MySQL.
 
 ## Gambar
 Inilah Tampilan Sederhana dari Website Sederhana :

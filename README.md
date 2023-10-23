@@ -6,7 +6,7 @@ Merupakan Website Dinamis Sederhana yang terdiri dari HTML, CSS, PHP, dan MySQL.
 Inilah Tampilan Sederhana dari Website Sederhana :
 \
 \
-![Simple Website](https://github.com/inzaghipa1709/WebsiteSederhana/blob/main/images/dynamic-simple-website.png)
+![Simple Website](./images/dynamic-simple-website.png)
 
 ## Sumber
 Inzaghi's Blog (Teknoblog) :
